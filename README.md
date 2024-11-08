@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python :)
 - 📫 How to reach me: Email: dimitri.roche1234@gmail.com / Discord tag: azzenn__
 - 😄 Pronouns: He/Him/All
-- ⚡ Fun fact: Im a twitch streamer (azzenn__)
+- ⚡ Fun fact: Im a twitch streamer ( twitch.tv/azzenn__ )
 
 <!---
 aZzenn/aZzenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
